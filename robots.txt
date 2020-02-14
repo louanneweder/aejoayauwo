@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://tieputooz.flockkeeper.com/sitemap.xml
